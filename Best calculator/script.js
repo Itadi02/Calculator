@@ -38,7 +38,7 @@ four.onclick = () => {
   display.value = curr;
 };
 five.onclick = () => {
-  curr = curr + "6";
+  curr = curr + "5";
   display.value = curr;
 };
 six.onclick = () => {
