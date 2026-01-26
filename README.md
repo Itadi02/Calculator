@@ -60,7 +60,7 @@ Optimized for both desktop and mobile screens.
 
 Clone the repository
 
-git clone https://github.com/your-username/calculator.git
+git clone https://github.com/itadi02/calculator.git
 
 
 Open index.html in your browser
